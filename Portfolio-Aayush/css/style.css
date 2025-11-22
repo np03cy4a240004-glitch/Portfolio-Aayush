@@ -1,0 +1,37 @@
+header{
+	color:black;
+	padding:10px;
+	background: lightyellow;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap:10px;
+	border-radius: 5px;
+
+}
+
+nav url{
+	display: flex;
+	gap: 100px;
+}
+
+#About{
+	text-align: center;
+	background: lightyellow;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+
+#Contact{
+	text-align:center ;
+	background: lightyellow;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+#MyProject{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
